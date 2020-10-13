@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="cust_column1" label="Cust column1" language="en" table="cust_table1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>cust_column1</element>
+            <help/>
+            <hint/>
+            <label>Cust column1</label>
+            <language>en</language>
+            <name>cust_table1</name>
+            <plural>Cust column1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-13 21:24:09</sys_created_on>
+            <sys_id>9f6e34525333101071a3ddeeff7b125c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Cust column1</sys_name>
+            <sys_package display_value="testglobal3" source="442e78125333101071a3ddeeff7b125e">442e78125333101071a3ddeeff7b125e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="testglobal4">0a3e3c125333101071a3ddeeff7b12c9</sys_scope>
+            <sys_update_name>sys_documentation_cust_table1_cust_column1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-13 21:25:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="testglobal4">0a3e3c125333101071a3ddeeff7b12c9</claim_owner_scope>
+        <claim_timestamp>17523daaa920000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_cust_table1_cust_column1_en</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>testglobal4</previous_claim_name>
+        <previous_claim_scope>0a3e3c125333101071a3ddeeff7b12c9</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-13 21:25:34</sys_created_on>
+        <sys_id>0ccef4525333101071a3ddeeff7b1288</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-13 21:25:34</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="testglobal4">0a3e3c125333101071a3ddeeff7b12c9</claim_owner_scope>
+        <claim_timestamp>17523daaa700000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_cust_table1_cust_column1_en</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>testglobal3</previous_claim_name>
+        <previous_claim_scope>442e78125333101071a3ddeeff7b125e</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-13 21:25:34</sys_created_on>
+        <sys_id>cccef4525333101071a3ddeeff7b1288</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-13 21:25:34</sys_updated_on>
+    </sys_claim>
+</record_update>
