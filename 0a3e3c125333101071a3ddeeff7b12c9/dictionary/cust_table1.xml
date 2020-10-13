@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Cust Table1" max_length="40" name="cust_table1" type="collection">
         <element label="Cust column1" max_length="40" name="cust_column1" type="string"/>
+        <element label="Cust_col2" max_length="40" name="cust_col2" type="string"/>
     </element>
 </database>

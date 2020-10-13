@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="cust_column1" table="cust_table1">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="cust_col2" table="cust_table1">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Cust column1</column_label>
+        <column_label>Cust_col2</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,7 +27,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>cust_column1</element>
+        <element>cust_col2</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-10-13 21:24:09</sys_created_on>
-        <sys_id>606ef0525333101071a3ddeeff7b1263</sys_id>
+        <sys_created_on>2020-10-13 21:56:39</sys_created_on>
+        <sys_id>a9c549d25333101071a3ddeeff7b120e</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name>Cust column1</sys_name>
+        <sys_name>Cust_col2</sys_name>
         <sys_package display_value="testglobal3" source="442e78125333101071a3ddeeff7b125e">442e78125333101071a3ddeeff7b125e</sys_package>
         <sys_policy/>
         <sys_scope display_value="testglobal4">0a3e3c125333101071a3ddeeff7b12c9</sys_scope>
-        <sys_update_name>sys_dictionary_cust_table1_cust_column1</sys_update_name>
+        <sys_update_name>sys_dictionary_cust_table1_cust_col2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-10-13 21:25:47</sys_updated_on>
+        <sys_updated_on>2020-10-13 21:58:09</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -73,4 +73,32 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_dictionary>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="testglobal4">0a3e3c125333101071a3ddeeff7b12c9</claim_owner_scope>
+        <claim_timestamp>17523f854c00000001</claim_timestamp>
+        <metadata_update_name>sys_dictionary_cust_table1_cust_col2</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>testglobal4</previous_claim_name>
+        <previous_claim_scope>0a3e3c125333101071a3ddeeff7b12c9</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-13 21:57:58</sys_created_on>
+        <sys_id>fa264dd25333101071a3ddeeff7b12f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-13 21:57:58</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="testglobal4">0a3e3c125333101071a3ddeeff7b12c9</claim_owner_scope>
+        <claim_timestamp>17523f854be0000001</claim_timestamp>
+        <metadata_update_name>sys_dictionary_cust_table1_cust_col2</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>testglobal3</previous_claim_name>
+        <previous_claim_scope>442e78125333101071a3ddeeff7b125e</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-13 21:57:58</sys_created_on>
+        <sys_id>be264dd25333101071a3ddeeff7b12f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-13 21:57:58</sys_updated_on>
+    </sys_claim>
 </record_update>
